@@ -75,5 +75,5 @@ $
 
 ## Authors
 
-- [ ] Kayongo Johnson Brian
-- [ ] Micah Kibet Buldo
+- [ ] Niyonkuru Samuel
+- [ ] Mugemanyi Manzi David
